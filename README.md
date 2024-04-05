@@ -6,6 +6,19 @@
 ## About me
 I'm a python developer from Ru
 
+### Development tools I use:
+- Python
+- Fastapi
+- Celery
+- Redis
+- Linux
+- GIt
+- Postgresql
+- HTML/CSS
 
-Codewars:
-<img src='https://www.codewars.com/users/mqrgoQT/badges/large' width='100'>
+Study links:
+<a href="https://www.codewars.com/users/mqrgoQT">CodeWars</a>
+<a href="https://leetcode.com/mqrgo/">LeetCode</a>
+<a href="https://stepik.org/users/592119580/profile">Stepik</a>
+<a href="https://py.checkio.org/user/mqrgo/">CheckIO</a>
+<a href="https://www.hackerrank.com/profile/shinkansentouri1">HackerRank</a>
