@@ -8,4 +8,4 @@ I'm a python developer from Ru
 
 
 Codewars:
-<img src='https://www.codewars.com/users/mqrgoQT/badges/large'>
+<img src='https://www.codewars.com/users/mqrgoQT/badges/large' width='100'>
