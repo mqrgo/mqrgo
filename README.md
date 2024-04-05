@@ -16,7 +16,11 @@ I'm a python developer from Ru
 - Postgresql
 - HTML/CSS
 
-Profiles on educational sites:
+# Contacts:
+- Telegram: @mqrgo
+- Email: shnknsntourist@gmail.com
+
+### Profiles on educational sites:
 - <a href="https://www.codewars.com/users/mqrgoQT">CodeWars</a>
 - <a href="https://leetcode.com/mqrgo/">LeetCode</a>
 - <a href="https://stepik.org/users/592119580/profile">Stepik</a>
