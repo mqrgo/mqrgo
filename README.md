@@ -15,6 +15,8 @@ I'm a python developer from Ru
 - Postgresql
 - HTML/CSS
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mqrgo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :mailbox_closed: Contacts:
 - Telegram: @mqrgo
 - Email: shnknsntourist@gmail.com
@@ -26,4 +28,4 @@ I'm a python developer from Ru
 - <a href="https://py.checkio.org/user/mqrgo/">CheckIO</a>
 - <a href="https://www.hackerrank.com/profile/shinkansentouri1">HackerRank</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mqrgo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
