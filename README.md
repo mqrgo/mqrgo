@@ -6,7 +6,8 @@
 I'm a python developer from Ru
 
 ### :hammer: Development tools I use:
-#### Python #### Fastapi
+- Python 
+- Fastapi
 - Celery
 - Redis
 - Linux
