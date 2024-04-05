@@ -6,3 +6,6 @@
 ## About me
 I'm a python developer from Ru
 
+
+Codewars:
+<img src='https://www.codewars.com/users/mqrgoQT/badges/small'>
