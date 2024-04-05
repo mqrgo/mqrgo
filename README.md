@@ -16,9 +16,9 @@ I'm a python developer from Ru
 - Postgresql
 - HTML/CSS
 
-Study links:
-<a href="https://www.codewars.com/users/mqrgoQT">CodeWars</a>
-<a href="https://leetcode.com/mqrgo/">LeetCode</a>
-<a href="https://stepik.org/users/592119580/profile">Stepik</a>
-<a href="https://py.checkio.org/user/mqrgo/">CheckIO</a>
-<a href="https://www.hackerrank.com/profile/shinkansentouri1">HackerRank</a>
+Profiles on educational sites:
+- <a href="https://www.codewars.com/users/mqrgoQT">CodeWars</a>
+- <a href="https://leetcode.com/mqrgo/">LeetCode</a>
+- <a href="https://stepik.org/users/592119580/profile">Stepik</a>
+- <a href="https://py.checkio.org/user/mqrgo/">CheckIO</a>
+- <a href="https://www.hackerrank.com/profile/shinkansentouri1">HackerRank</a>
