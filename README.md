@@ -25,3 +25,5 @@ I'm a python developer from Ru
 - <a href="https://stepik.org/users/592119580/profile">Stepik</a>
 - <a href="https://py.checkio.org/user/mqrgo/">CheckIO</a>
 - <a href="https://www.hackerrank.com/profile/shinkansentouri1">HackerRank</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mqrgo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
