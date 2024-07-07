@@ -9,6 +9,7 @@ I'm a python developer from Ru
 ### :hammer: Development tools I use:
 - Python 
 - Fastapi
+- Django / DRF
 - Celery
 - Redis
 - Linux
