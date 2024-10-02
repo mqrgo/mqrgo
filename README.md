@@ -20,7 +20,7 @@ I'm a python developer from Ru
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mqrgo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :mailbox_closed: Contacts:
-- Telegram: @mqrgo
+- Telegram: @mqrgoqt
 - Email: shnknsntourist@gmail.com
 
 ### :closed_book: Profiles on educational sites:
